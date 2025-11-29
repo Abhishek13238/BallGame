@@ -11,7 +11,7 @@ This is a simple 3D Unity Ball Game demonstrating basic gameplay mechanics, play
 - Arrow keys: Move the ball
 
 ## Screenshot
-![Ball Game Screenshot](Assets/screenshot.png)
+![Ball Game Screenshot](screenshot.png)
 
 ## Notes
 - This project showcases my understanding of Unity, C# scripting, prefab usage, level design, and basic game mechanics.
