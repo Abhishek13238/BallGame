@@ -13,13 +13,13 @@ This is a simple 3D Unity Ball Game demonstrating basic gameplay mechanics, play
 ## 📸 Game Screenshots
 
 ### 🏠 Lobby
-![Lobby](./lobby.png)
+![Lobby](./Lobby.png)
 
 ### 🎮 Gameplay
-![Gameplay](./gameplay.png)
+![Gameplay](./Game.png)
 
 ### 🏁 Near Finish Line
-![Finish](./finish.png)
+![Finish](./FinishLine.png)
 
 ## Notes
 - This project showcases my understanding of Unity, C# scripting, prefab usage, level design, and basic game mechanics.
